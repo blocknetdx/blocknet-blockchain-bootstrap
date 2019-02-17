@@ -11,7 +11,7 @@ If you have never ran the Blocknet wallet, follow the first set of directions be
 
 If you __have never ran__ the Blocknet wallet:
 
-1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases).
+1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases/download/v1.0/BlocknetDX.zip).
 1. Find the downloaded *BlocknetDX.zip* file and double-click. This will unzip the file and show a folder named *BlocknetDX*.
 1. Move the *BlocknetDX* folder to your OS's respective data directory.
 
@@ -27,7 +27,7 @@ If you __have never ran__ the Blocknet wallet:
 
 If you __have already ran__ the Blocknet wallet:
 
-1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases).
+1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases/download/v1.0/BlocknetDX.zip).
 1. Find the downloaded *BlocknetDX.zip* file and double-click. This will unzip the file and show a folder named *BlocknetDX*.
 1. Close and quit the Blocknet wallet if it is running.
 1. Navigate to your OS's respective data directory.
