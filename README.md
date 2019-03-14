@@ -7,9 +7,7 @@ This repository contains the bootstrap chain files for the Blocknet blockchain. 
 ## Instructions
 If you have never ran the Blocknet wallet, follow the first set of directions below. If you have already ran the Blocknet wallet before, follow the second set of directions below.
 
-#
-
-If you __have never ran__ the Blocknet wallet:
+#### If you have *never* ran the Blocknet wallet:
 
 1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases/download/v1.0/BlocknetDX.zip).
 1. Find the downloaded *BlocknetDX.zip* file and double-click. This will unzip the file and show a folder named *BlocknetDX*.
@@ -23,9 +21,7 @@ If you __have never ran__ the Blocknet wallet:
 1. Download the [latest Blocknet wallet](https://github.com/BlocknetDX/BlockDX/releases/latest).
 1. Install and run the wallet. Syncing should begin at the bootstrap's last block.
 
-#
-
-If you __have already ran__ the Blocknet wallet:
+#### If you have *already* ran the Blocknet wallet:
 
 1. Download the [latest bootstrap files](https://github.com/BlocknetDX/blocknet-blockchain-bootstrap/releases/download/v1.0/BlocknetDX.zip).
 1. Find the downloaded *BlocknetDX.zip* file and double-click. This will unzip the file and show a folder named *BlocknetDX*.
