@@ -24,6 +24,8 @@ If you have never ran the Blocknet wallet, follow the first set of directions be
 
 #### If you have *already* ran the Blocknet wallet:
 
+Video Tutorials: [Windows](https://www.youtube.com/watch?v=66o0fQ0sHxQ)
+
 1. Download the [latest bootstrap files](https://github.com/blocknetdx/blocknet-blockchain-bootstrap/releases/download/v1.0/BlocknetDX.zip).
 1. Find the downloaded *BlocknetDX.zip* file and double-click. This will unzip the file and show a folder named *BlocknetDX*.
 1. Close and quit the Blocknet wallet if it is running.
