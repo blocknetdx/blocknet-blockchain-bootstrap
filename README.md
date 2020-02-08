@@ -21,7 +21,7 @@ Video Tutorials: [Windows](https://www.youtube.com/watch?v=66o0fQ0sHxQ) | [MacOS
 	1. For MacOS: `~/Library/Application Support/Blocknet/`
 		1. Open Finder and in the program menu select *Go* > *To Folder* and enter the above path.
 	1. For Linux: `~/.blocknet/`
-1. Remove all files and folders **EXCEPT** for *wallet.dat*, *blocknet.conf*, *xbridge.conf*, *xrouter.conf*, *servicenode.conf*, and the `wallets/` folder (you may not have all these files). Again, **DO NOT** delete the *wallet.dat* file or `wallets/` folder as it contains the private keys for your funds. Deleting these will result in loss of funds.
+1. Remove all files and folders **EXCEPT** for *wallet.dat*, *blocknet.conf*, *xbridge.conf*, *xrouter.conf*, *servicenode.conf*, `backups/`, and the `wallets/` folder (you may not have all these files). Again, **DO NOT** delete the *wallet.dat* file or `wallets/` and `backups/` folder as it contains the private keys for your funds. Deleting these will result in loss of funds.
 1. Inside the downloaded *Blocknet* folder there are the `blocks/`, `chainstate/`, and `indexes/` folders. Move these 3 folders into the Blocknet wallet's data directory that you just removed files from.
 1. If you do not have the [latest Blocknet wallet](https://blocknet.co/#downloads), download and install it.
 1. Run the wallet and syncing should begin at the bootstrap's last block.
