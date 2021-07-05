@@ -1,6 +1,6 @@
 # blocknet-blockchain-bootstrap
 
-This repository contains the bootstrap chain files for the Blocknet blockchain. Using these files helps shorten the amount of time it takes to sync the wallet since you don't need to sync the blockchain from scratch.
+This repository contains a snapshot of the Blocknet blockchain as high as block 2049186 on 5 July, 2021. Using a snapshot reduces the amount of time it takes to sync the wallet since you don't need to sync the entire blockchain from scratch.
 
 ---
 
